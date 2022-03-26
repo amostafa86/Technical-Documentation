@@ -3,7 +3,6 @@ nav#navbar {
     display: flex;
     flex-direction: column;
     font-size: 20px;
-    /* margin-top: 3px; */
     padding-right: 75px;
 position: fixed;
 }
@@ -29,13 +28,11 @@ a {
 
 header{
     font-weight: bolder;
-    /* padding-top: 10px; */
     padding-top: 20px;
     font-size: 30px;
 }
 
 #navbar header, a {
-    /* padding: 25px; */
     padding: 25px 25px 25px 33px;
 }
 
@@ -50,7 +47,6 @@ header{
         display: flex;
         flex-direction: column;
          font-size: 2px;
-        /* padding-right: 75px; */ 
     }
 
   }
